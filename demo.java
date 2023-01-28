@@ -13,4 +13,7 @@ public class Demo{
     public static void title(){
         System.out.println("TITLE");
     }
+    public static int functia(int a){
+        return a*a;
+    }
 }
