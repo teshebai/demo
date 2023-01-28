@@ -9,3 +9,5 @@ def title():
 
 def kvadrat(a):
     return a*a
+
+    

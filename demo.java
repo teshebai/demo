@@ -9,4 +9,7 @@ public class Demo{
     public static int kvadrat(int a){
         return a*a;
     }
+    public static int functia(int a){
+        return a*a;
+    }
 }
