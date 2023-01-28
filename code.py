@@ -1,4 +1,5 @@
 # salem alem sozi
+import math
 print("Salem,alem")
 
 a=12
@@ -8,4 +9,4 @@ def title():
     print("Title")
 
 def kvadrat(a):
-    return a*a
+    return math.pow(a,2)
