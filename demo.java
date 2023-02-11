@@ -12,4 +12,7 @@ public class Demo{
     public static int functia(int a){
         return a*a;
     }
+    public static void main(String[] args){
+        System.out.println("Ramazan");
+    }
 }
