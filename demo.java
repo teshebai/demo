@@ -16,11 +16,16 @@ public class Demo{
     public static int functia(int a){
         return a*a;
     }
+<<<<<<< HEAD
 }
 
 
 public class roma{
     public static void main(String[] args){
         System.out.rintln("Roma kotsinbene?");
+=======
+    public static void main(String[] args){
+        System.out.println("Ramazan");
+>>>>>>> jana
     }
 }
